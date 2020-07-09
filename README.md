@@ -1,4 +1,10 @@
-### Hi there 👋
+Hi 👋
+
+My name is **Carlos Mendible**. I was born in Caracas, Venezuela. I'm a Solutions Architect and **Azure and Developer Technologies Microsoft MVP**, certified as: PMP, CISA, MCSE, MCSD, ITIL and MCP.
+
+I currently work for everis Spain as **Azure Evangelist** and I also own HexaSystems Inc. together with my partners Roberto and Luis.
+
+💬 Let's talk about **Microsoft Azure and .NET**
 
 <!--
 **cmendible/cmendible** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
