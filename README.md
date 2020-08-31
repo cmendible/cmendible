@@ -16,6 +16,7 @@ I currently work for everis Spain as **Azure Evangelist** and I also own HexaSys
 <a href="https://www.linkedin.com/in/carlosmendible" rel="nofollow"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" style="max-width:100%;"></a>
 <a href="https://www.reddit.com/user/cmendibl3" rel="nofollow"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/reddit.svg" style="max-width:100%;"></a>
 <a href="https://www.meetup.com/members/95187722" rel="nofollow"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/meetup.svg" style="max-width:100%;"/></a>
+<a href="https://gitter.im/cmendible" rel="nofollow"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/gitter.svg" style="max-width:100%;"></a>
 <a href="https://stackoverflow.com/users/332127" rel="nofollow"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/stackoverflow.svg" style="max-width:100%;"/></a>
 <a href="https://www.instagram.com/cmendibl3" rel="nofollow"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/instagram.svg" style="max-width:100%;"></a>
 
