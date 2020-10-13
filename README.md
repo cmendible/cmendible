@@ -36,4 +36,4 @@ I currently work for everis Spain as **Azure Evangelist** and I also own HexaSys
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmendible&layout=compact&count_private=true" alt="cmendible" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=cmendible&count_private=true" alt="cmendible" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cmendible&count_private=true" alt="cmendible" /></p>
