@@ -13,3 +13,5 @@ I'm a **Senior Cloud Solution Architect @Microsoft** and former **Azure and Deve
 ## Stats
 
 ![cmendible](https://github-readme-stats.vercel.app/api?username=cmendible&count_private=true")
+
+<a rel="me" href="https://mastodon.online/@cmendibl3"></a>
