@@ -8,9 +8,12 @@
 
 I'm a **Senior Cloud Solution Architect @Microsoft** and former **Azure and Developer Technologies Microsoft MVP**, certified as: PMP, CISA, Azure Solutions Architect Expert, Terraform Associate and [more](https://www.credly.com/users/carlos-mendible/badges).
 
-* If you are interested in Azure and .NET you should visit my blog at [https://carlos.mendible.com](https://carlos.mendible.com)
+I'm also **[Azure Quick Review's](https://aka.ms/Azqr)** main contributor.
+
+* If you are interested in Azure and .NET please visit my blog [https://carlos.mendible.com](https://carlos.mendible.com)
+* Check my Azure samples repo here: [azure.samples](https://github.com/cmendible/azure.samples)
 * Check my .NET samples repo here: [dotnetcore.samples](https://github.com/cmendible/dotnetcore.samples)
-* Also if you need a Fake SMTP server for your .NET tests check: [netDumbster](https://github.com/cmendible/netdumbster)
+* Also if you need an SMTP server for your .NET tests check: [netDumbster](https://github.com/cmendible/netdumbster)
 
 ## Stats
 
