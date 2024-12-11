@@ -6,7 +6,7 @@
 [![Linkedin: cmendibl3](https://img.shields.io/badge/-cmendibl3-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/cmendibl3)](https://twitter.com/cmendibl3)
 [![GitHub cmendible](https://img.shields.io/github/followers/cmendible?label=follow&style=social)](https://github.com/cmendible)
 
-I'm a **Senior Cloud Solution Architect @Microsoft** and former **Azure and Developer Technologies Microsoft MVP**, certified as: PMP, CISA, Azure Solutions Architect Expert, Terraform Associate and [more](https://www.credly.com/users/carlos-mendible/badges).
+I'm a **Principal Cloud Solution Architect @Microsoft** and former **Azure and Developer Technologies Microsoft MVP**, certified as: PMP, CISA, Azure Solutions Architect Expert, Terraform Associate and [more](https://www.credly.com/users/carlos-mendible/badges).
 
 I'm also **[Azure Quick Review's](https://aka.ms/Azqr)** main contributor.
 
