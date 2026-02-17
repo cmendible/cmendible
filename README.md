@@ -6,7 +6,9 @@
 [![Linkedin: cmendibl3](https://img.shields.io/badge/-cmendibl3-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/cmendibl3)](https://twitter.com/cmendibl3)
 [![GitHub cmendible](https://img.shields.io/github/followers/cmendible?label=follow&style=social)](https://github.com/cmendible)
 
-I'm a **Europe South - Migrate & Modernize CSA Lead @Microsoft** and former **Azure and Developer Technologies Microsoft MVP**, certified as: PMP, CISA, Azure Solutions Architect Expert, Terraform Associate and [more](https://www.credly.com/users/carlos-mendible/badges).
+[![committers.top badge](https://user-badge.committers.top/spain/cmendible.svg)](https://user-badge.committers.top/spain/cmendible)
+
+I'm a **Europe South - Migrate & Modernize CSA Lead @Microsoft** and former **Azure and Developer Technologies Microsoft MVP**, certified as: PMP, CISA, Azure Solutions Architect Expert, CKAD, CKA and [more](https://www.credly.com/users/carlos-mendible/badges).
 
 I'm also **[Azure Quick Review's](https://aka.ms/Azqr)** main contributor.
 
@@ -17,4 +19,4 @@ I'm also **[Azure Quick Review's](https://aka.ms/Azqr)** main contributor.
 
 ## Stats
 
-![cmendible](https://github-readme-stats.vercel.app/api?username=cmendible&count_private=true")
+![GitHub Streak](https://streak-stats.demolab.com?user=cmendible&theme=tokyonight)
