@@ -10,7 +10,7 @@
 
 I'm a **Europe South - Migrate & Modernize CSA Lead @Microsoft** and former **Azure and Developer Technologies Microsoft MVP**, certified as: PMP, CISA, Azure Solutions Architect Expert, CKAD, CKA and [more](https://www.credly.com/users/carlos-mendible/badges).
 
-Creator of **[Azure Quick Review's](https://aka.ms/Azqr)** and **[GitHub Quick Review](https://aka.ms/ghqr)**
+Creator of **[Azure Quick Review](https://aka.ms/Azqr)** and **[GitHub Quick Review](https://aka.ms/ghqr)**
 
 * If you are interested in Azure and .NET please visit my blog [https://carlos.mendible.com](https://carlos.mendible.com)
 * Check my Azure samples repo here: [azure.samples](https://github.com/cmendible/azure.samples)
