@@ -2,7 +2,7 @@
 
 ## Hi 👋, I'm **Carlos Mendible**
 
-[![Linkedin: carlosmendible](https://img.shields.io/badge/-carlosmendible-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosmendible)](https://www.linkedin.com/in/carlosmendible/)
+[![Linkedin: carlosmendible](https://img.shields.io/badge/-carlosmendible-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosmendible/)](https://www.linkedin.com/in/carlosmendible/)
 [![Linkedin: cmendibl3](https://img.shields.io/badge/-cmendibl3-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/cmendibl3)](https://twitter.com/cmendibl3)
 [![GitHub cmendible](https://img.shields.io/github/followers/cmendible?label=follow&style=social)](https://github.com/cmendible)
 
