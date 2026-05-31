@@ -2,9 +2,10 @@
 
 ## Hi 👋, I'm **Carlos Mendible**
 
-[![Linkedin: carlosmendible](https://img.shields.io/badge/-carlosmendible-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosmendible/)](https://www.linkedin.com/in/carlosmendible/)
-[![Linkedin: cmendibl3](https://img.shields.io/badge/-cmendibl3-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/cmendibl3)](https://twitter.com/cmendibl3)
-[![GitHub cmendible](https://img.shields.io/github/followers/cmendible?label=follow&style=social)](https://github.com/cmendible)
+[![GitHub cmendible](https://img.shields.io/github/followers/cmendible)](https://github.com/cmendible)
+[![X: cmendibl3](https://img.shields.io/twitter/follow/cmendibl3)](https://twitter.com/cmendibl3)
+[![Bluesky followers](https://img.shields.io/bluesky/followers/cmendibl3.bsky.social)](https://cmendibl3.bsky.social)
+[![Linkedin: carlosmendible](https://img.shields.io/badge/carlosmendible-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosmendible/)](https://www.linkedin.com/in/carlosmendible/)
 
 [![committers.top badge](https://user-badge.committers.top/spain/cmendible.svg)](https://user-badge.committers.top/spain/cmendible)
 
